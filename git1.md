@@ -30,3 +30,4 @@
 ####  Время шутить!
 
 ![This is the mem](https://cs8.pikabu.ru/post_img/2018/02/16/7/1518781717140773572.jpg)
+![This is the mem2](img/mem2.jpeg)
