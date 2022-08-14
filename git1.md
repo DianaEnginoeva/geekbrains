@@ -6,6 +6,8 @@
 
 * **git add** - добавляет файлу версионность в локальном репозитории
 
+Тут изменения для ветки main 
+
 * **git commit -m "message about changes"** - фиксирует изменения
 >*Over time, commits should tell a story of the history of your repository and how it came to be the way that it currently is*
 
