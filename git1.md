@@ -8,6 +8,8 @@
 
 Тут изменения для ветки main 
 
+Тут изменения ветки branch12
+
 * **git commit -m "message about changes"** - фиксирует изменения
 >*Over time, commits should tell a story of the history of your repository and how it came to be the way that it currently is*
 
